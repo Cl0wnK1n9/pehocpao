@@ -1,3 +1,1 @@
-<?php
-  echo phpinfo();
-?>
+<script>alert(1)</script>
